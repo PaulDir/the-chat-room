@@ -30,7 +30,7 @@ socket编程，多人聊天室
 如果是聊天内容，便将其输出在聊天内容显示框中。  
  ![image](https://github.com/PaulDir/the-chat-room/blob/master/picture/12.png)  
 
-    UI通过tkinter库实现，首先是登录界面：  
+   UI通过tkinter库实现，首先是登录界面：  
  ![image](https://github.com/PaulDir/the-chat-room/blob/master/picture/13.png)  
 	登录界面将获取用户的IP地址（默认为127.0.0.1：65432）与用户名，若不输入用户名，会将用户IP作为用户名，同时输出警告：  
  ![image](https://github.com/PaulDir/the-chat-room/blob/master/picture/14.png)  
